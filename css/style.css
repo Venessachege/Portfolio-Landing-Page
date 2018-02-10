@@ -1,0 +1,14 @@
+.nav-tabs > li{
+  float:right;
+]
+
+ .img-circle{
+   border-radius:70%;
+
+ }
+ .circle {
+     border-radius: 100%;
+     background: green;
+     display:inline-block;
+     line-height:100px;
+ }
