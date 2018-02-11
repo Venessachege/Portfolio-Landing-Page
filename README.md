@@ -1,5 +1,5 @@
-# Portfolio Landing Page
-# My portfolio Landing page is an overview of who I am ,my background,interests/hobbies and
+## Portfolio Landing Page
+### My portfolio Landing page is an overview of who I am ,my background,interests/hobbies and
 my programming journey. 11/02/2018
 #### By Venessa Chege
 ## Description
