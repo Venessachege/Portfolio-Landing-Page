@@ -3,8 +3,8 @@
 my programming journey. 11/02/2018
 #### By Venessa Chege
 ## Description
-This project is the first step to marketing myself in the programming world.It will give the viewers/employers a detailed 
-report of who I am and what interests me .It also includes a link to my projects on github which clearly highlights my journey 
+This project is the first step to marketing myself in the programming world.It will give the viewers/employers a detailed
+report of who I am and what interests me .It also includes a link to my projects on github which clearly highlights my journey
 into web programming.
 ## Setup/Installation Requirements
 * This is a great place
@@ -15,6 +15,5 @@ into web programming.
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2018} *Venessa Chege
-  
+MIT Liense
+Copyright (c) {2018} Venessa Chege
